@@ -162,6 +162,8 @@ const AppHeader = () => {
 					>
 						Contact
 					</Link>
+
+					
 				</div>
 
 				{/* Header right section buttons */}
@@ -172,7 +174,7 @@ const AppHeader = () => {
 							className="text-md font-general-medium bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
 							aria-label="Hire Me Button"
 						>
-							<Button title="Hire Me" />
+							<Button title="Contact Me" />
 						</span>
 					</div>
 
